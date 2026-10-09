@@ -90,7 +90,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-center relative z-10">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">Ready to start your next project?</h2>
           <p className="text-xl text-zinc-400 mb-10">Drop us a line and let's discuss how we can bring your vision to life.</p>
-          <a href="mailto:oguzulasan@gmail.com" className="inline-flex items-center justify-center px-8 py-4 rounded-full bg-gradient-to-r from-purple-500 to-blue-500 text-white font-bold text-lg hover:scale-105 transition-transform shadow-lg shadow-purple-500/25">
+          <a href="mailto:hello@mythapps.com" className="inline-flex items-center justify-center px-8 py-4 rounded-full bg-gradient-to-r from-purple-500 to-blue-500 text-white font-bold text-lg hover:scale-105 transition-transform shadow-lg shadow-purple-500/25">
             Contact Us Today
           </a>
         </div>
