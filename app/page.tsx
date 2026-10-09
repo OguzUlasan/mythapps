@@ -32,7 +32,7 @@ export default function Home() {
       </div>
       
       <footer className="absolute bottom-8 text-zinc-600 text-sm font-medium">
-        © {new Date().getFullYear()} Myth Apps. All rights reserved.
+        © 2026 Myth Apps. All rights reserved.
       </footer>
     </main>
   );
