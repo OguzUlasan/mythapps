@@ -11,7 +11,7 @@ export default function PhoneDetective() {
   return (
     <Shell>
       <section className="mb-12 rounded-3xl border border-white/10 bg-gradient-to-b from-[#1a2233] to-black p-8">
-        <p className="text-sm font-bold uppercase tracking-widest text-[#FFD15C]">Detective game · iPhone · 17+</p>
+        <p className="text-sm font-bold uppercase tracking-widest text-[#FFD15C]">Detective game · iPhone · 13+</p>
         <h1 className="mt-2 text-5xl md:text-6xl font-black tracking-tight uppercase">Phone Detective</h1>
         <p className="mt-4 text-lg text-zinc-300 max-w-xl">
           Someone is missing. You have their phone. Read their messages, photos, notes and deleted files, mark the

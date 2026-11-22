@@ -45,8 +45,8 @@ export default function PhoneDetectiveTerms() {
 
         <h2>Age</h2>
         <p>
-          Phone Detective is rated 17+. Cases deal with crime, for example missing people, kidnapping and fraud,
-          without graphic violence. Please don’t use the app if you are under 17, or under the age your country
+          Phone Detective is rated 13+. Cases deal with crime, for example missing people, kidnapping and fraud,
+          without graphic violence. Please don’t use the app if you are under 13, or under the age your country
           requires for this kind of content.
         </p>
 
