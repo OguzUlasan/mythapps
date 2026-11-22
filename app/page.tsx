@@ -104,7 +104,7 @@ export default function Home() {
             Myth Apps
           </div>
           <p>© 2026 Myth Apps. All rights reserved.</p>
-          <p className="mt-2 space-x-4"><a href="/rareparty" className="hover:text-white">Rare Answer</a><a href="/support" className="hover:text-white">Support</a><a href="/privacy" className="hover:text-white">Privacy</a><a href="/terms" className="hover:text-white">Terms</a></p>
+          <p className="mt-2 space-x-4"><a href="/rareparty" className="hover:text-white">Rare Answer</a><a href="/phonedetective" className="hover:text-white">Phone Detective</a><a href="/support" className="hover:text-white">Support</a><a href="/privacy" className="hover:text-white">Privacy</a><a href="/terms" className="hover:text-white">Terms</a></p>
         </div>
       </footer>
     </div>

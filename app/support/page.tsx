@@ -21,6 +21,9 @@ export default function Support() {
           <li>
             <Link href="/rareparty#support">Rare Answer: Party Game</Link>
           </li>
+          <li>
+            <Link href="/phonedetective#support">Phone Detective</Link>
+          </li>
         </ul>
         <h2>Subscriptions</h2>
         <ul>
