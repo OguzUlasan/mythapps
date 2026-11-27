@@ -63,6 +63,10 @@ export default function PhoneDetective() {
             used” or “case solved”, with an app-instance ID. They never include your name or anything you type.
           </li>
           <li>
+            <strong>Crash reports</strong> (Firebase Crashlytics): if the app crashes, a technical report with the
+            error, your device model, iOS version and an app-instance ID, so we can fix the bug.
+          </li>
+          <li>
             <strong>Purchases</strong> (Apple, RevenueCat): an anonymous ID and your Apple purchase receipt, to check
             whether you have Pro. Apple handles payment; we never see your card.
           </li>
